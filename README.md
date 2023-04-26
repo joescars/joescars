@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joescars
 - 👀 I’m interested in solving complex customer problems
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently focused on building my Data Science & Data Analytics skills.
 - 📫 How to reach me: twitter.com/joescars
 
 <!---
