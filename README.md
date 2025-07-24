@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joescars
 - 👀 I’m interested in solving complex customer problems
 - 🌱 I’m currently focused on building my Data Science & Data Analytics skills.
-- 📫 How to reach me: twitter.com/joescars
+- 📫 How to reach me: enter the matrix.
 
 <!---
 joescars/joescars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
